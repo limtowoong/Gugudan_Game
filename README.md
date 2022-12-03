@@ -1,10 +1,10 @@
-# 코드
+## 코드
 
 ![image](https://user-images.githubusercontent.com/104752202/187587003-866d467b-b47d-4c3c-97ae-e6a5fae25403.png)
 
 <br>
 
-# 코드 설명
+## 코드 설명
 
 ```eclipse
 int x, y;
@@ -58,7 +58,7 @@ BufferedReader in= new BufferedReader(new InputStreamReader(System.in));
 &ensp;한 줄을 읽어 String 타입으로 값을 가져올 때 사용합니다.
 <br><br><br>
 
-# 결과
+## 결과
 
 ![image](https://user-images.githubusercontent.com/104752202/187587719-a59030c7-57f2-4235-99c4-75fc78912264.png)
 
